@@ -58,11 +58,11 @@ A structured **User Testing Plan** was developed and executed, involving defined
 
 ### Tools & Methodologies Used:
 
-- **User-Centered Design**  
-- **Think-Aloud Protocol**  
-- **System Usability Scale (SUS)**  
-- **Manual Task Observation & Error Tracking**  
-- **Excel for Results Analysis**  
-- **Visual Persona Design Tools**
+- User-Centered Design
+- Think-Aloud Protocol
+- System Usability Scale (SUS)
+- Manual Task Observation & Error Tracking
+- Excel for Results Analysis  
+- Visual Persona Design Tools
 
 This project demonstrates a professional approach to usability testing and iterative software improvement, placing end-users at the center of design decisions to ensure accessibility, clarity, and overall user satisfaction.
