@@ -24,8 +24,6 @@ Through structured testing, the following aspects of the API were validated:
 
 By following best practices in software testing, this project ensures robust, maintainable, and high-quality code for the TunePal API, preparing it for seamless integration with the front-end and further system testing.
 
-Here’s a matching **Assignment 2 summary** you can add to your GitHub README, right after the Assignment 1 section:
-
 # Assignment 2 Overview
 
 This assignment focuses on **usability testing** of the TunePal mobile app, which is designed to identify, search, and manage traditional Irish music tunes. The aim was to apply formal software testing methodologies to evaluate and improve the app’s user experience based on real user interaction and feedback.
